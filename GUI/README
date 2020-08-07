@@ -1,0 +1,2 @@
+This folder contains everything about the GUI of the code. It has the Main Chess Board it self along with move history, pieces taken panel(still under development as of 7th august), 
+as well as debug panel which just indicates the reason of a mistake made on board.
